@@ -1,4 +1,4 @@
 # C_Projects
-This repository contains all the C projects I have done.
+This repository contains some of my beginner level C projects
 <br>
 Author: @aadesh006
